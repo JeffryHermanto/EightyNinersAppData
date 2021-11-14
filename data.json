@@ -1,0 +1,263 @@
+[
+  {
+    "year": 2021,
+    "months": [
+      {
+        "id": 11,
+        "month": "November",
+        "dailyResult": [
+          {
+            "date": 1,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": -1.09
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": -1.09
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": -1.09
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": -1.09
+              }
+            ]
+          },
+          {
+            "date": 2,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 1.01
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1.03
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 0.97
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 1.02
+              }
+            ]
+          },
+          {
+            "date": 3,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 1.01
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1.12
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1.1
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 1.13
+              }
+            ]
+          },
+          {
+            "date": 4,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 1.05
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1.22
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 1.12
+              }
+            ]
+          },
+          {
+            "date": 5,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": -1.04
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": -1.02
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 0.98
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": -1.05
+              }
+            ]
+          },
+          {
+            "date": 8,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 1.35
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1.12
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1.32
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 1
+              }
+            ]
+          },
+          {
+            "date": 9,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 0.9
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 0.98
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1.03
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 0.97
+              }
+            ]
+          },
+          {
+            "date": 10,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 0.97
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1.04
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 0.98
+              }
+            ]
+          },
+          {
+            "date": 11,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": -1.08
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": -1.05
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": -1.05
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": -1.05
+              }
+            ]
+          },
+          {
+            "date": 12,
+            "brokers": [
+              {
+                "name": "Max Global",
+                "initial": "MG",
+                "result": 1.33
+              },
+              {
+                "name": "Zen Trade",
+                "initial": "ZT",
+                "result": 1.11
+              },
+              {
+                "name": "Global Premier",
+                "initial": "GP",
+                "result": 1.39
+              },
+              {
+                "name": "BethleAsterFX",
+                "initial": "BLA",
+                "result": 0.97
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
