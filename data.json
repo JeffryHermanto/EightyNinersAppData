@@ -5,7 +5,7 @@
       {
         "id": 11,
         "month": "November",
-        "dailyResult": [
+        "dailyResults": [
           {
             "date": 1,
             "brokers": [
