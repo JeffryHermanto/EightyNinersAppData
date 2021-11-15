@@ -3,6 +3,243 @@
     "year": 2021,
     "months": [
       {
+        "id": 1,
+        "month": "Januari",
+        "dailyResults": [
+          {
+            "date": 4,
+            "mg": 0.99,
+            "zt": -0.89,
+            "gp": -0.86,
+            "bla": null
+          },
+          {
+            "date": 5,
+            "mg": 1.12,
+            "zt": 0.98,
+            "gp": 1.02,
+            "bla": null
+          },
+          {
+            "date": 6,
+            "mg": 0.61,
+            "zt": 0.59,
+            "gp": 1.01,
+            "bla": null
+          },
+          {
+            "date": 7,
+            "mg": 0.96,
+            "zt": 1,
+            "gp": -0.16,
+            "bla": null
+          },
+          {
+            "date": 8,
+            "mg": -0.52,
+            "zt": -0.53,
+            "gp": -0.54,
+            "bla": null
+          },
+          {
+            "date": 11,
+            "mg": 1.02,
+            "zt": 0.97,
+            "gp": 1.01,
+            "bla": null
+          },
+          {
+            "date": 12,
+            "mg": 0.97,
+            "zt": 1.01,
+            "gp": 1.01,
+            "bla": null
+          },
+          {
+            "date": 13,
+            "mg": 1,
+            "zt": 0.95,
+            "gp": 0.99,
+            "bla": null
+          },
+          {
+            "date": 14,
+            "mg": 1.04,
+            "zt": 1.02,
+            "gp": 0.99,
+            "bla": null
+          },
+          {
+            "date": 15,
+            "mg": -0.07,
+            "zt": -0.16,
+            "gp": -0.12,
+            "bla": null
+          },
+          {
+            "date": 18,
+            "mg": 0.99,
+            "zt": 0.99,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 19,
+            "mg": -0.74,
+            "zt": -0.78,
+            "gp": -0.68,
+            "bla": null
+          },
+          {
+            "date": 20,
+            "mg": 1.02,
+            "zt": 1.05,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 21,
+            "mg": 0.69,
+            "zt": 0.58,
+            "gp": 0.72,
+            "bla": null
+          },
+          {
+            "date": 22,
+            "mg": 1.02,
+            "zt": 1.04,
+            "gp": 1.01,
+            "bla": null
+          },
+          {
+            "date": 25,
+            "mg": 0.99,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 26,
+            "mg": 0.75,
+            "zt": 0.75,
+            "gp": 0.75,
+            "bla": null
+          },
+          {
+            "date": 27,
+            "mg": 1.28,
+            "zt": 1.25,
+            "gp": 0.99,
+            "bla": null
+          },
+          {
+            "date": 28,
+            "mg": -1.1,
+            "zt": -1.12,
+            "gp": -1.15,
+            "bla": null
+          },
+          {
+            "date": 29,
+            "mg": 1,
+            "zt": 1.02,
+            "gp": 0.99,
+            "bla": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "month": "Februari",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "month": "Maret",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "month": "April",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "month": "Mei",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "month": "Juni",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "month": "Juli",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "month": "Agustus",
+        "dailyResults": [
+          {
+            "date": 0,
+            "mg": 0,
+            "zt": 0,
+            "gp": 0,
+            "bla": 0
+          }
+        ]
+      },
+      {
         "id": 9,
         "month": "September",
         "dailyResults": [
@@ -164,7 +401,7 @@
       },
       {
         "id": 10,
-        "month": "October",
+        "month": "Oktober",
         "dailyResults": [
           {
             "date": 1,
