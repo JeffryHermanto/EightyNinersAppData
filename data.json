@@ -612,11 +612,137 @@
         "month": "Mei",
         "dailyResults": [
           {
-            "date": 0,
-            "mg": 0,
-            "zt": 0,
-            "gp": 0,
-            "bla": 0
+            "date": 3,
+            "mg": 1.07,
+            "zt": 1.19,
+            "gp": 0.5,
+            "bla": null
+          },
+          {
+            "date": 4,
+            "mg": 0.97,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 5,
+            "mg": -0.87,
+            "zt": -0.87,
+            "gp": -0.86,
+            "bla": null
+          },
+          {
+            "date": 6,
+            "mg": -0.72,
+            "zt": -0.67,
+            "gp": -0.74,
+            "bla": null
+          },
+          {
+            "date": 7,
+            "mg": 1,
+            "zt": 1,
+            "gp": 0.98,
+            "bla": null
+          },
+          {
+            "date": 10,
+            "mg": 1,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 11,
+            "mg": 0.99,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 12,
+            "mg": 1.01,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 17,
+            "mg": -1.01,
+            "zt": -0.94,
+            "gp": -0.9,
+            "bla": null
+          },
+          {
+            "date": 18,
+            "mg": 1,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 19,
+            "mg": 1.01,
+            "zt": 1.18,
+            "gp": 1.25,
+            "bla": null
+          },
+          {
+            "date": 20,
+            "mg": 0.97,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 21,
+            "mg": -0.98,
+            "zt": -0.56,
+            "gp": -0.61,
+            "bla": null
+          },
+          {
+            "date": 24,
+            "mg": 1.03,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 25,
+            "mg": 1,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 26,
+            "mg": 1,
+            "zt": 1.34,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 27,
+            "mg": 1,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 28,
+            "mg": 1,
+            "zt": 1,
+            "gp": 1,
+            "bla": null
+          },
+          {
+            "date": 31,
+            "mg": -1.08,
+            "zt": -1.05,
+            "gp": -1.05,
+            "bla": null
           }
         ]
       },
