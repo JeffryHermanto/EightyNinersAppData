@@ -1698,6 +1698,19 @@
             "bla": -1.05
           }
         ]
+      },
+      {
+        "id": 12,
+        "month": "Desember",
+        "dailyResults": [
+          {
+            "date": 1,
+            "mg": 0.85,
+            "zt": 1,
+            "gp": 1.22,
+            "bla": 1.1
+          }
+        ]
       }
     ]
   }
